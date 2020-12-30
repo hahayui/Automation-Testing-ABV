@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>This is the expected gray colour for the validation messages.</description>
+      <initValue>'rgba(129, 129, 129, 1)'</initValue>
+      <name>expected_gray_color_for_validation_msg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is the expected red colour for the validation messages.</description>
+      <initValue>'rgba(210, 49, 0, 1)'</initValue>
+      <name>expected_red_color_For_validation_msg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'el'</initValue>
+      <name>username_less_than_3_symbols</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>This is a 30 symbols string.</description>
+      <initValue>'ekrm1lzrm8x1q2jg9tf2fx3rtfglpm'</initValue>
+      <name>long_symbols_string</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

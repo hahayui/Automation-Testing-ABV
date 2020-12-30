@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User email field less than 3 symbols</description>
+   <name>TC-06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa4d98de-6d57-4e90-b0dd-b8f94993d076</testCaseGuid>
+</TestCaseEntity>

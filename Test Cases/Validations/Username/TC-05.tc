@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User email field on focus</description>
+   <name>TC-05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4e6bfd3-7ff5-454e-b28d-793190718ffc</testCaseGuid>
+</TestCaseEntity>

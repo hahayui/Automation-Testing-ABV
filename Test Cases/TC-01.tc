@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Opening the register page
+Steps: 
+1. Load &quot;https://www.abv.bg/&quot;.
+2. Click on &quot;Регистрирай се!&quot; positioned below the submit green button.</description>
+   <name>TC-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9a6dfe2-8886-417b-afba-0497f3cf88a7</testCaseGuid>
+</TestCaseEntity>
