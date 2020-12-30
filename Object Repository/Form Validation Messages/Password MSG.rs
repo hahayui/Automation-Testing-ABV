@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>Validation message for the username.</description>
-   <name>Username MSG</name>
+   <description></description>
+   <name>Password MSG</name>
    <tag></tag>
-   <elementGuidId>14cbbe12-8b34-4103-bc75-2dcf3f4d7488</elementGuidId>
+   <elementGuidId>ebb8e399-2120-4fba-97fb-f97509e699cf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,11 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/article/div/div[3]/form/div[1]/div[2]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
+         <value>/html/body/article/div/div[3]/form/div[3]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -34,4 +34,9 @@
       <initValue>'Моля попълнете полето АБВ потребител.'</initValue>
       <name>empty_username_validation_message</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Паролата трябва да е с дължина от 8 до 30 символа и да съдържа поне две от следните: малка латинска буква, главна латинска буква, число, символ. Не въвеждайте потребителското си име, други имена или дати за парола.'</initValue>
+      <name>password_gray_info_text</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

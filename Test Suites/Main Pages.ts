@@ -15,12 +15,12 @@
       <guid>09076eee-6472-4aff-aee2-f04277e68d69</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-01</testCaseId>
+      <testCaseId>Test Cases/Main Pages/TC-01</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>829a39a4-fb5f-4d6e-aab0-70be2c9a2d65</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC-02</testCaseId>
+      <testCaseId>Test Cases/Main Pages/TC-02</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
