@@ -26,18 +26,18 @@ WebUI.click(findTestObject('Global Objects/Consent To All'))
 
 WebUI.click(findTestObject('Form Fields/Username Field'))
 
-WebUI.sendKeys(findTestObject('Form Fields/Username Field'), GlobalVariable.username_less_than_3_symbols)
+WebUI.sendKeys(findTestObject('Form Fields/Username Field'), 'тест')
 
 WebUI.focus(findTestObject('Form Fields/First Password Field'))
 
-println(getColor())
+WebUI.verifyElementText(findTestObject('Form Validation Messages/Username MSG'), GlobalVariable.invalid_data_in_the_username_field)
 
-WebUI.verifyTextPresent('Полето АБВ потребител не може да съдържа по-малко от 3 символа.', false)
+println(getColor())
 
 WebUI.verifyEqual(getColor(), GlobalVariable.expected_red_color_For_validation_msg)
 
-WebUI.closeBrowser()
-//Getting the RGBA value of the text color part of the element.
+WebUI.closeBrowser() //Getting the RGBA value of the text color part of the element. 
+
 String getColor() {
     return WebUI.getCSSValue(findTestObject('Object Repository/Form Validation Messages/Username MSG'), 'color')
 }

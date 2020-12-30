@@ -17,11 +17,16 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'el'</initValue>
-      <name>username_less_than_3_symbols</name>
+      <name>string_with_less_than_three_symbols</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>This is a 30 symbols string.</description>
       <initValue>'ekrm1lzrm8x1q2jg9tf2fx3rtfglpm'</initValue>
       <name>long_symbols_string</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Полето АБВ потребител е попълнено некоректно.'</initValue>
+      <name>invalid_data_in_the_username_field</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
