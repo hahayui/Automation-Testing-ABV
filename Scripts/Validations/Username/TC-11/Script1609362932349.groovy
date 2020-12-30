@@ -36,7 +36,7 @@ println(getColor())
 
 WebUI.verifyEqual(getColor(), GlobalVariable.expected_red_color_For_validation_msg)
 
-WebUI.closeBrowser() //Getting the RGBA value of the text color part of the element. 
+WebUI.closeBrowser() //Getting the RGBA value of the text color part of the element.  
 
 String getColor() {
     return WebUI.getCSSValue(findTestObject('Object Repository/Form Validation Messages/Username MSG'), 'color')
