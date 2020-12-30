@@ -29,4 +29,9 @@
       <initValue>'Полето АБВ потребител е попълнено некоректно.'</initValue>
       <name>invalid_data_in_the_username_field</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Моля попълнете полето АБВ потребител.'</initValue>
+      <name>empty_username_validation_message</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

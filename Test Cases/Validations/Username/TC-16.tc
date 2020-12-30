@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User email field - empty</description>
+   <name>TC-16</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c861644c-1eb0-41bc-b7fb-c5610d3e7b52</testCaseGuid>
+</TestCaseEntity>
