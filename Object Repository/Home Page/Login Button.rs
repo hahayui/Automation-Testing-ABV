@@ -4,13 +4,23 @@
    <name>Login Button</name>
    <tag></tag>
    <elementGuidId>13bce813-9861-4a4a-89b5-24517995cd9d</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;loginBut&quot;]</value>
+         <value>/html/body/main/section[1]/div[2]/form/p[3]/input</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form > p:nth-child(11) > input[type=submit]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
