@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open an email and find a text in it.</description>
+   <name>Find text in an email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7cd2955-d0bb-4677-b670-f8368eb76268</testCaseGuid>
+</TestCaseEntity>
